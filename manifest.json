@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Twitter Column Resizer",
+  "version": "1.0.3",
+  "description": "Resizes Twitter columns for a better layout.",
+  "action": {},
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "css": ["assets/content.css"]
+    }
+  ],
+  "host_permissions": ["https://twitter.com/*"],
+  "icons": {
+    "16": "assets/icon-16.png",
+    "48": "assets/icon-48.png",
+    "128": "assets/icon-128.png"
+  }
+}
