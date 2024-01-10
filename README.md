@@ -6,7 +6,7 @@ Resizes X (formerly Twitter) columns for a better layout.
 
 https://twitter.com/BlueBirdBack/status/1744168765640540241
 
-X (formerly known as Twitter) has a three-column design. Changing the widths from 275px, 600px, and 350px to 225px, 725px, and 225px respectively improves its look.
+X (formerly known as Twitter) has a three-column design. Changing the widths from 275px, 600px, and 350px to 230px, 720px, and 230px respectively improves its look.
 
 ### width of 1651px
 
